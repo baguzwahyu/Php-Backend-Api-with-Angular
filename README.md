@@ -13,3 +13,8 @@ Then Clone & Download
 put it in the htdocs folder
 
 For the Frontend section using Angular please go to https://github.com/baguzwahyu/Crud-Angular-with-with-Php-Api-Crud
+
+$host = 'localhost';
+$user = 'root';
+$password = '';
+$dbname = 'akselerasi';
